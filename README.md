@@ -3,3 +3,4 @@
 
 Strava-like app
 
+Fitness App
