@@ -1,5 +1,5 @@
-# Topic Ideas for the capstone project
-## Just list any ideas you find in this file, or any overall topics we could look into
+# Health and Wellness Application
+
 
 Strava-like app
 
