@@ -8,5 +8,5 @@ Fitness App
 Real time quiz app
 
 Wellness App w/reward system
-   -daily morning and nightly checkups
-   -points for completing "quests"
+
+Meal tracker
